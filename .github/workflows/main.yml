@@ -6,7 +6,6 @@
     <title>Pokémon Interactive Page</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
             background: linear-gradient(to bottom, #f0c040, #f08030);
